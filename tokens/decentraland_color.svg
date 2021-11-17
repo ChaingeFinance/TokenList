@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0B215758-33FA-4A63-8732-1D2A12D78415</title>
+    <defs>
+        <linearGradient x1="85.355%" y1="14.645%" x2="14.645%" y2="85.355%" id="linearGradient-1">
+            <stop stop-color="#FF2D55" offset="0%"></stop>
+            <stop stop-color="#FFBC5B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.966%" y1="0%" x2="49.966%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#A524B3" offset="0%"></stop>
+            <stop stop-color="#FF2D55" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.966%" y1="0%" x2="49.966%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#A524B3" offset="0%"></stop>
+            <stop stop-color="#FF2D55" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="⇢-Styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="[Android]-⇢-Assets-⇢-Part-1-25" transform="translate(-328.000000, -2003.000000)" fill-rule="nonzero">
+            <g id="categories" transform="translate(0.000000, 177.000000)">
+                <g id="category" transform="translate(0.000000, 1817.000000)">
+                    <g id="decentraland-mana-logo" transform="translate(328.000000, 9.000000)">
+                        <circle id="Oval" fill="url(#linearGradient-1)" cx="13" cy="13" r="13"></circle>
+                        <polygon id="Path" fill="url(#linearGradient-2)" points="9.2105 8.45 9.2105 18.2 17.3355 18.2"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" points="1.0855 18.2 9.2105 18.2 9.2105 8.45"></polygon>
+                        <path d="M2.6,20.8 C3.341,21.7815 4.2185,22.659 5.2,23.4 L20.8,23.4 C21.7815,22.659 22.659,21.7815 23.4,20.8 L2.6,20.8 Z" id="Path" fill="#FC9965"></path>
+                        <path d="M5.2,23.4 C7.371,25.0315 10.075,26 13,26 C15.925,26 18.629,25.0315 20.8,23.4 L5.2,23.4 Z" id="Path" fill="#FF2D55"></path>
+                        <polygon id="Path" fill="url(#linearGradient-3)" points="17.4395 13.65 17.4395 20.8 23.4 20.8"></polygon>
+                        <path d="M17.4395,18.2 L1.0855,18.2 C1.4885,19.1295 2.002,20.0005 2.6,20.8 L17.446,20.8 L17.446,18.2 L17.4395,18.2 L17.4395,18.2 Z" id="Path" fill="#FFBC5B"></path>
+                        <polygon id="Path" fill="#FFFFFF" points="11.4855 20.8 17.4395 20.8 17.4395 13.65"></polygon>
+                        <circle id="Oval" fill="#FFC95B" cx="17.4395" cy="8.45" r="3.25"></circle>
+                        <circle id="Oval" fill="#FFC95B" cx="9.2105" cy="4.875" r="1.625"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

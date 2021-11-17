@@ -1,0 +1,61 @@
+<svg width="26" height="26" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient x1="47.921%" y1="217.452%" x2="51.432%" y2="-61.716%" id="a">
+            <stop stop-color="#FF9200" offset="0%"/>
+            <stop stop-color="#E412F1" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="48.004%" y1="208.531%" x2="51.519%" y2="-70.649%" id="b">
+            <stop stop-color="#FF9200" offset="0%"/>
+            <stop stop-color="#E412F1" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="47.713%" y1="220.659%" x2="51.953%" y2="-95.749%" id="c">
+            <stop stop-color="#FF9200" offset="0%"/>
+            <stop stop-color="#E412F1" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="35.044%" y1="160.86%" x2="57.467%" y2="-5.364%" id="d">
+            <stop stop-color="#FF9200" offset="0%"/>
+            <stop stop-color="#E412F1" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="23.439%" y1="203.271%" x2="70.583%" y2="-73.866%" id="e">
+            <stop stop-color="#FF9200" offset="0%"/>
+            <stop stop-color="#E412F1" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="23.762%" y1="198.016%" x2="67.712%" y2="-49.801%" id="f">
+            <stop stop-color="#FF9200" offset="0%"/>
+            <stop stop-color="#E412F1" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="47.365%" y1="257.936%" x2="50.917%" y2="-23.845%" id="g">
+            <stop stop-color="#FF9200" offset="0%"/>
+            <stop stop-color="#E412F1" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="47.101%" y1="278.199%" x2="50.85%" y2="-16.858%" id="h">
+            <stop stop-color="#FF9200" offset="0%"/>
+            <stop stop-color="#E412F1" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="46.669%" y1="297.862%" x2="50.828%" y2="-11.61%" id="i">
+            <stop stop-color="#FF9200" offset="0%"/>
+            <stop stop-color="#E412F1" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="17.367%" y1="235.045%" x2="61.271%" y2="-13.846%" id="j">
+            <stop stop-color="#FF9200" offset="0%"/>
+            <stop stop-color="#E412F1" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="12.369%" y1="273.174%" x2="60.676%" y2="-11.086%" id="k">
+            <stop stop-color="#FF9200" offset="0%"/>
+            <stop stop-color="#E412F1" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g fill-rule="nonzero" fill="none">
+        <path d="M4.516 7.61c.383 0 .694.311.694.695v14.193h-.694a.694.694 0 0 1-.694-.694v-13.5c0-.383.31-.693.694-.693z" fill="url(#a)"/>
+        <rect fill="url(#b)" x="6.434" y="9.545" width="1.388" height="14.869" rx=".694"/>
+        <rect fill="url(#c)" x="8.883" y="11.302" width="1.388" height="13.972" rx=".694"/>
+        <path d="M12.966 25.932C5.816 25.932 0 20.116 0 12.966 0 5.816 5.817 0 12.966 0c7.15 0 12.966 5.817 12.966 12.966 0 7.15-5.816 12.966-12.966 12.966zm0-24.818c-6.535 0-11.851 5.317-11.851 11.852 0 6.536 5.316 11.852 11.851 11.852 6.536 0 11.852-5.316 11.852-11.852 0-6.535-5.317-11.851-11.852-11.851v-.001z" fill="url(#d)"/>
+        <path fill="url(#e)" d="m20.086 23.129-9.814-7.072-1.388-1v-1.71l1.388 1 10.946 7.887z"/>
+        <path d="m22.341 20.4-.754 1.047-11.299-8.142-1.153-.83.76-1.054a.042.042 0 0 1 .059-.01l.334.239 11.91 8.644.143.106z" fill="url(#f)"/>
+        <path d="M20.981 3.273h.127a.92.92 0 0 1 .92.92v13.245a.694.694 0 0 1-.695.694.694.694 0 0 1-.694-.694V3.614a.342.342 0 0 1 .341-.341h.001z" fill="url(#g)"/>
+        <rect fill="url(#h)" x="18.191" y="1.657" width="1.388" height="14.737" rx=".694"/>
+        <rect fill="url(#i)" x="15.622" y=".573" width="1.388" height="13.929" rx=".694"/>
+        <path d="m15.933 14.375.796-1.097-.853-.618L4.348 4.293l-.041-.03-.19.264-.004.007-.616.847 12.404 8.998c.01.007.024.005.032-.004z" fill="url(#j)"/>
+        <path fill="url(#k)" d="m6.059 2.73 9.598 6.964 1.274.934-.005 1.348-.062.31-1.212-.88L4.893 3.598z"/>
+    </g>
+</svg>

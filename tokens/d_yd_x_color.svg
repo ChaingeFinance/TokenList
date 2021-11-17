@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>8F25AAAA-4245-4409-91B9-990CA8700306</title>
+    <defs>
+        <linearGradient x1="41.3253753%" y1="13.7254822%" x2="101.454592%" y2="91.6632438%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.55" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="60.6102558%" y1="84.2600737%" x2="-8.06087786%" y2="-16.7314495%" id="linearGradient-2">
+            <stop stop-color="#6966FF" offset="0%"></stop>
+            <stop stop-color="#6966FF" stop-opacity="0.36" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="⇢-Styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="[Android]-⇢-Assets-⇢-Part-51-75" transform="translate(-328.000000, -1556.000000)">
+            <g id="categories" transform="translate(0.000000, 177.000000)">
+                <g id="category" transform="translate(0.000000, 1370.000000)">
+                    <g id="-dYdX" transform="translate(328.000000, 9.000000)">
+                        <rect id="Rectangle" fill="#101856" x="0" y="0" width="26" height="26" rx="10"></rect>
+                        <g id="mark" transform="translate(6.500000, 5.687500)" fill-rule="nonzero">
+                            <polygon id="Path" fill="#FFFFFF" points="9.72332566 0 0 13.9300291 2.98526053 13.9300291 12.7589062 0"></polygon>
+                            <polygon id="Path" fill="url(#linearGradient-1)" points="3.29623565 0 6.15710871 4.10472194 4.66448489 6.34367056 0.248787835 0"></polygon>
+                            <polygon id="Path" fill="url(#linearGradient-2)" points="10.0130428 13.93119 6.84120753 9.39116997 8.33381845 7.21436994 12.9983162 13.93119"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
